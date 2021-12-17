@@ -1,0 +1,30 @@
+.emphasisbold {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(255, 123, 145);
+}
+
+.center {
+    text-align: center;
+    font-size: medium;
+}
+
+.caption {
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+}
+
+.importantinfo {
+    text-align: center;
+    color: pink;
+    font-size: medium;
+    font-style: italic;
+}
+
+.title {
+    font-size: x-large;
+    font-style: bold;
+}
+
+
